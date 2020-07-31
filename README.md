@@ -1,8 +1,8 @@
 <h1 align="center">Resume project</h1> 
 
-<h2 align="center"><img src=assets/img/resume.png></h2>
+<h2 align="center"><img src=assets/images/resume.png></h2>
 
-[View the live project here.](https://lucyjpjones.github.io/love-running-project/)
+[View the live project here.](https://lucyjpjones.github.io/resume-project/)
 
  #### A fully responsive website developed using Bootstrap, CSS3 and HTML5.
 
